@@ -1,26 +1,45 @@
+
+# Setup
+
+# Edit these fields 
+
+title:            'Open Contractors'
+tagline:          'Making Sense of Government Contracting'
+description:      'An online <a href="http://jekyllrb.com" target="_blank">open-source</a> platform for searching, analyzing and making sense of government procurement data.'
+url:              'http://open.contractors'
+baseurl:          /
+
+author:
+  name:           'Allison McCartney'
+  url:            'https://twitter.com/anmccartney'
+
+google-fonts:
+  title:          'Open Sans'
+  body:           'Gentium Book Basic'
+
+social:
+  - type:         'github'
+    url:          'https://github.com/poole/hyde'
+  - type:         'twitter'
+    url:          'https://twitter.com/opencontractors'
+
+
+
+# Style options
+
+colors:
+  sidebar:        '#202020'
+  body:           '#FFFFFF'
+  links:          '#F45C42'
+
+
+# Don't edit any of the below fields
+
+port:             4444
+
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
-
-# Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde

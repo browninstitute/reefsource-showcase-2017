@@ -330,7 +330,14 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  padding-bottom: 2em;
+  padding-top: 2em;
+  border-top: 1px solid gainsboro;
+}
+
+.page:first-child {
+  padding-top: 0;
+  border-top: none;
 }
 
 /* Blog post or page title */
