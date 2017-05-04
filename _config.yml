@@ -51,7 +51,6 @@ base-theme:
 port:             4444
 
 # Dependencies
-markdown:         redcarpet
 highlighter:      rouge
 
 # Permalinks
