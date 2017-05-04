@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Open Contractors</title>
+ <link href="http://localhost:4444/atom.xml" rel="self"/>
+ <link href="http://localhost:4444/"/>
+ <updated>2017-05-04T12:10:47-07:00</updated>
+ <id>http://localhost:4444</id>
+ <author>
+   <name>Allison McCartney</name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>
