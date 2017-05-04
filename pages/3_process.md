@@ -3,28 +3,8 @@ layout: page
 title: Process
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+To design the interface for Open Contractors, we started from the ground up, interviewing journalists and activists who worked with this data to figure out what questions they would like answered more easily, and what data they considered most important. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis quis nibh quis varius. Cras sit amet tortor ac tortor ullamcorper gravida. Nulla nec eros dui. Aenean semper elementum magna, nec facilisis metus fermentum ac. Etiam condimentum eleifend elit, eu lacinia dolor ultricies sit amet. Sed faucibus metus a felis interdum, ac venenatis augue venenatis. Sed posuere ultricies sodales. Vestibulum nulla ante, tempus id magna id, dignissim congue erat. Quisque eu pharetra libero. Pellentesque fermentum ante a facilisis porttitor. Fusce tristique cursus velit, vel finibus ante ullamcorper nec. Suspendisse a cursus augue, sit amet posuere dolor.
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+In elit mi, aliquet id imperdiet a, vestibulum euismod quam. Suspendisse id vehicula justo, non porttitor sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque eu egestas mauris. Sed placerat eros et lectus luctus, a ultricies magna fermentum. Aliquam hendrerit augue at metus interdum tempor. Nam blandit finibus justo, sit amet suscipit mauris tincidunt et. Morbi congue tortor est, ac rhoncus arcu scelerisque eget. Vivamus lorem tellus, euismod ut tincidunt in, finibus sed magna. Quisque sit amet lobortis nunc. Suspendisse condimentum ex quis dignissim auctor.

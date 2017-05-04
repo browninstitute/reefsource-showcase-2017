@@ -4,27 +4,13 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Open Contractors is an open source web application for exploring and analyzing Department of Defense procurement data.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Open Contractors is a project dedicated to the idea that government data must not only be available to the public, it must also be accessible and understandable. It seeks to take a difficult-to-understand database of government contracts, and provide graphics, language and context to better allow journalists and non-expert level readers to see stories in this data.
 
-There are currently two themes built on Poole:
+Open Contractors was part of the 2015-2016 cohort of Magic Grants. Our team consists of two people, [Allison McCartney](https://twitter.com/anmccartney) and [Alexandre Gonçalves.](https://github.com/alexgonca)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+- Allison is a graduate of the Master's program in journalism at Stanford University, and specializes in telling stories with data applications and design.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+- Alex is a current PhD student in the Columbia University Graduate School of Journalism. He has a background working with both software and reporting in Brazil, and designed and maintains the Open Contractors database.
