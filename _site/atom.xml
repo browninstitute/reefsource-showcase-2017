@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Open Contractors</title>
- <link href="http://localhost:4444/atom.xml" rel="self"/>
- <link href="http://localhost:4444/"/>
- <updated>2017-05-05T10:39:00-07:00</updated>
- <id>http://localhost:4444</id>
+ <link href="http://open.contractors/atom.xml" rel="self"/>
+ <link href="http://open.contractors/"/>
+ <updated>2017-05-05T15:34:59-07:00</updated>
+ <id>http://open.contractors</id>
  <author>
    <name>Allison McCartney</name>
    <email></email>

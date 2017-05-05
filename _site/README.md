@@ -90,10 +90,6 @@ To change the information in the sticky sidebar, open the `_config.yml` file in 
     name:           'Allison McCartney'
     url:            'https://twitter.com/anmccartney'
 
-  google-fonts:
-    title:          'Open Sans'
-    body:           'Gentium Book Basic'
-
   social:
     - type:         'github'
       url:          'https://github.com/browninstitute'
