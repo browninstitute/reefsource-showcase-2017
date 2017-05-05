@@ -60,9 +60,23 @@ At this point all of your files should be added to your repository on Github. To
 Wait a minute, then navigate to `browninstitute.github.io/YOUR-REPOSITORY-NAME` and a webpage should be there.
     
 
-## Sticky sidebar content
 
-To change the information in the sticky sidebar, open the _config.yml file in Prose. The sample config file looks like this:
+## Editing the website content 
+
+If you are familiar with editing static websites and using Github, feel free to edit this template in the text editor of your choice.
+
+If you haven't gone through this process before, I recommend using [Prose](http://prose.io/), a text editor that hooks into your Github account and is particularly great for editing Jekyll sites. 
+
+Authorize Prose for your Github account, then find and click into your project repo. 
+
+The main sections for the site can be found in the `pages` folder. They are written in Markdown, a flexible and fun markup language. If you are unfamiliar with using Markdown syntax, [this guide](https://daringfireball.net/projects/markdown/syntax) from Daring Fireball is particularly useful.
+
+Once you edit the page in prose, you can click the save button on the right of the page to commit the changes straight to your web page.
+
+
+## Editing the sticky sidebar content
+
+To change the information in the sticky sidebar, open the `_config.yml` file in Prose. The sample config file looks like this:
 
 
 ```yml
