@@ -13,16 +13,22 @@ author:
   name:           'Allison McCartney'
   url:            'https://twitter.com/anmccartney'
 
-google-fonts:
-  title:          'Open Sans'
-  body:           'Gentium Book Basic'
-
 social:
   - type:         'github'
-    url:          'https://github.com/poole/hyde'
+    url:          'https://github.com/browninstitute'
   - type:         'twitter'
     url:          'https://twitter.com/opencontractors'
 
+
+
+# Customize your fonts
+# 
+# Use the name of Google fonts here to customize the fonts of this site.
+# To find Google fonts, go to https://fonts.google.com/
+
+google-fonts:
+  title:          'Open Sans'
+  body:           'Gentium Book Basic'
 
 
 # Style options
@@ -46,6 +52,19 @@ social:
 base-theme:
 
 
+
+# If you would like the sidebar to appear on the right side of the screen, make this field: 
+#
+# reverse: 'layout-reverse'
+
+
+reverse:
+
+
+
+#
+#
+#
 # Don't edit any of the below fields
 
 port:             4444
