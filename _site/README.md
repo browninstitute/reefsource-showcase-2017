@@ -1,4 +1,4 @@
-# Brown Institute Project Template
+# Brown Institute Project Showcase Template
 
 This showcase template was created to help Magic Grantees prepare for the Brown Institute fall showcase, and have a basic project website to document their project and process. The template is made from Jekyll, and is a modified version of the popular Hyde template.
 
@@ -11,7 +11,7 @@ Before you get started, you'll need to make sure you are part of our team on Git
 We will be granting you access to this organization, but if we have not added you yet, make sure you contact us for access.
 
 
-### Set up the template
+## Set up the template
 
 In order to use the template, go through the following steps.
 
@@ -60,7 +60,7 @@ At this point all of your files should be added to your repository on Github. To
 Wait a minute, then navigate to `browninstitute.github.io/YOUR-REPOSITORY-NAME` and a webpage should be there.
     
 
-### Sticky sidebar content
+## Sticky sidebar content
 
 To change the information in the sticky sidebar, open the _config.yml file in Prose. The sample config file looks like this:
 
@@ -91,7 +91,7 @@ This config file will provide a number of options that will change the content o
 
 
 
-### Themes
+## Themes
 
 Hyde ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
 
@@ -107,7 +107,7 @@ If you'd like to create your own theme, look to the Themes section of [included 
 
 
 
-### Reverse layout
+## Reverse layout
 
 ![Hyde with reverse layout](https://f.cloud.github.com/assets/98681/1831230/42b0d3ac-7384-11e3-8d54-2065afd03f9e.png)
 
@@ -116,6 +116,7 @@ Hyde's page orientation can be reversed with a single change to the `_config.yml
 To reverse the layout, set the `reverse` config parameter to `reverse: 'layout-reverse'`.
 
 
+---
 
 ### Hyde Author:
 
@@ -124,7 +125,7 @@ To reverse the layout, set the `reverse` config parameter to `reverse: 'layout-r
 - <https://twitter.com/mdo>
 
 
-## License
+### License
 
 Open sourced under the [MIT license](LICENSE.md).
 
