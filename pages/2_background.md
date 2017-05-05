@@ -13,7 +13,7 @@ Groups of journalists, entrepreneurs and citizen activists have worked on servic
 
 We wanted to continue in this effort to bring better data exploration tools to the public by tackling one of the largest and most difficult government databases of all: the Federal Procurement Data System (FPDS).
 
-![USAspending screenshot](/img/usaspending.png)
+![USAspending screenshot](img/usaspending.png)
 
 Unlike some other data sets, the FPDS data does currently have a portal: [USAspending](http://usaspending.gov). USAspending allows for people to search their dataset, access an XML API and bulk download cuts of their data, but does not context or clarity for any of the information it provides, or allow easy access to downloading the data you really want. In April 2015, the site was [redesigned](https://sunlightfoundation.com/2015/04/02/redesign-is-awful-but-usaspending-still-proves-power-of-the-public/) to make it even more difficult to navigate.
 
