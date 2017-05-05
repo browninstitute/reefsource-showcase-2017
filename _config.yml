@@ -5,7 +5,7 @@
 
 title:            'Open Contractors'
 tagline:          'Making Sense of Government Contracting'
-description:      'An online <a href="http://jekyllrb.com" target="_blank">open-source</a> platform for searching, analyzing and making sense of government procurement data.'
+description:      'An online <a href="https://github.com/opencontractors" target="_blank">open-source</a> platform for searching, analyzing and making sense of government procurement data.'
 url:              'http://open.contractors'
 baseurl:          /
 
