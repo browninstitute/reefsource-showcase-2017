@@ -17,15 +17,15 @@ In order to use the template, go through the following steps.
 
 1. Clone the repo
 
-  Open a terminal window.
-  
-  On your command line, navigate to a folder where you'd like this project to live. If you want it to live in `Documents/BrownInstitute` then just type `cd Documents/BrownInstitute` on the command line then press `return`.
+    Open a terminal window.
+    
+    On your command line, navigate to a folder where you'd like this project to live. If you want it to live in `Documents/BrownInstitute` then just type `cd Documents/BrownInstitute` on the command line then press `return`.
 
-  Then, close the repository by pasting `git clone https://github.com/browninstitute/showcase-template.git` on your command line and pressing enter.
-  
-  Navigate into the cloned directory with `cd showcase-template`.
-  
-  Leave the terminal window open.
+    Then, close the repository by pasting `git clone https://github.com/browninstitute/showcase-template.git` on your command line and pressing enter.
+    
+    Navigate into the cloned directory with `cd showcase-template`.
+    
+    Leave the terminal window open.
 
 2. Create a new repository for your site within the Brown Institute's Github organization
 
