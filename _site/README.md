@@ -2,6 +2,8 @@
 
 This showcase template was created to help Magic Grantees prepare for the Brown Institute fall showcase, and have a basic project website to document their project and process. The template is made from Jekyll, and is a modified version of the popular Hyde template.
 
+[View a working demo of the website](https://browninstitute.github.io/showcase-template/)
+
 In this README, we'll go through the process of setting up, editing and customizing this template for your project.
 
 ### Join our organization on Github
@@ -80,21 +82,21 @@ To change the information in the sticky sidebar, open the `_config.yml` file in 
 
 
 ```yml
-  title:            'Open Contractors'
-  tagline:          'Making Sense of Government Contracting'
-  description:      'An online <a href="https://github.com/opencontractors" target="_blank">open-source</a> platform for searching, analyzing and making sense of government procurement data.'
-  url:              'http://open.contractors'
+  title:            'Your Project Name'
+  tagline:          'Create a snappy tagline here'
+  description:      'An online <a href="https://github.com/opencontractors" target="_blank">open-source</a> resource for media innovation projects.'
+  url:              'http://yourProjectWebsite'
   baseurl:          /
 
   author:
-    name:           'Allison McCartney'
-    url:            'https://twitter.com/anmccartney'
+    name:           'Your name here'
+    url:            'https://twitter.com/yourTwitterName'
 
   social:
     - type:         'github'
-      url:          'https://github.com/browninstitute'
+      url:          'https://github.com/yourProjectGithub'
     - type:         'twitter'
-      url:          'https://twitter.com/opencontractors'
+      url:          'https://twitter.com/yourProjectTwitter'
 ```
 
 This config file will provide a number of options that will change the content of the sidebar. Make sure you change them to suit your project.
@@ -103,15 +105,19 @@ This config file will provide a number of options that will change the content o
 
 ## Themes
 
-Hyde ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
+The config file for this theme lets you easily change the color scheme of your choice.
 
 ![Hyde in red](https://f.cloud.github.com/assets/98681/1831229/42b0b354-7384-11e3-8462-31b8df193fe5.png)
 
-There are eight themes available at this time.
+There are currently nine possible theme colors
 
-![Hyde theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
+![Hyde theme classes](img/theme-colors.png)
 
-To use a theme, go back to your config file and add a parameter to the `base-theme` option. For example, if you wanted the red theme pictured above, type in `base-theme: 'theme-base-08'`.
+To use a theme, go back to your config file and add a parameter to the `base-theme` option.
+
+```yml
+  base-theme: 'red'
+```
 
 If you'd like to create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/hyde/blob/master/public/css/hyde.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
 
@@ -123,7 +129,9 @@ If you'd like to create your own theme, look to the Themes section of [included 
 
 Hyde's page orientation can be reversed with a single change to the `_config.yml` file.
 
-To reverse the layout, set the `reverse` config parameter to `reverse: 'layout-reverse'`.
+```yml
+  reverse: 'layout-reverse'
+```
 
 
 ---
@@ -134,6 +142,8 @@ To reverse the layout, set the `reverse` config parameter to `reverse: 'layout-r
 - <https://github.com/mdo>
 - <https://twitter.com/mdo>
 
+
+### Altered by Allison McCartney
 
 ### License
 
