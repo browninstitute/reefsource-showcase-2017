@@ -143,7 +143,7 @@ Hyde's page orientation can be reversed with a single change to the `_config.yml
 - <https://twitter.com/mdo>
 
 
-### Altered by Allison McCartney
+Altered by Allison McCartney
 
 ### License
 
