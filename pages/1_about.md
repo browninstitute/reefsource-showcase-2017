@@ -3,10 +3,6 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Open Contractors is an open source web application for exploring and analyzing Department of Defense procurement data.
-</p>
-
 Open Contractors is a project dedicated to the idea that government data must not only be available to the public, it must also be accessible and understandable. It seeks to take a difficult-to-understand database of government contracts, and provide graphics, language and context to better allow journalists and non-expert level readers to see stories in this data.
 
 Open Contractors was part of the 2015-2016 cohort of Magic Grants. Our team consists of two people, [Allison McCartney](https://twitter.com/anmccartney) and [Alexandre Gonçalves.](https://github.com/alexgonca)

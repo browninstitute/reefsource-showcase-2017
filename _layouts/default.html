@@ -8,7 +8,13 @@
     {% include sidebar.html %}
 
     <div class="content container">
+
+    <div class="videoWrapper">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ site.feature-video-id }}" frameborder="0" allowfullscreen></iframe>
+    </div>
+
       {{ content }}
+
     </div>
 
   </body>

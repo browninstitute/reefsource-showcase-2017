@@ -13,12 +13,21 @@ author:
   name:           'Allison McCartney'
   url:            'https://twitter.com/anmccartney'
 
+
+# Feel free to add additional social accounts below, such as Facebook, or delete any that are
+# unnecessary. Just use the same format that has been established.
+
 social:
   - type:         'github'
     url:          'https://github.com/browninstitute'
   - type:         'twitter'
     url:          'https://twitter.com/opencontractors'
 
+
+# Put your video on YouTube -- it can be an unlisted video if you don't want to share it -- 
+# then extract the video ID and put it here. The video will appear at the top of your page
+
+feature-video-id:    'rMZuEOK4DtY'
 
 
 # Customize your fonts
@@ -33,24 +42,22 @@ google-fonts:
 
 # Style options
 # 
-# Currently, the site uses a default theme. If you would like to change the color scheme, copy
+# Currently, the site uses a default theme. If you would like to change the color scheme, choose
 # one of the themes listed below and paste it next to 'base-theme: '
-# 
-# For example--
-# base-theme: 'theme-base-0c'
-# 
-# red:        'theme-base-08'
-# orange:     'theme-base-09'
-# peach:      'theme-base-0a'
-# green:      'theme-base-0b'
-# aqua:       'theme-base-0c'
-# light blue: 'theme-base-0d'
-# purple:     'theme-base-0e'
-# brown:      'theme-base-0f'
+#
+# If you leave the field blank, the theme will default to dark gray/black 
+#
+#  - red
+#  - orange
+#  - peach
+#  - green
+#  - cyan
+#  - gray
+#  - blue
+#  - dark-blue
+#  - magenta
 
-
-base-theme:
-
+base-theme: 'cyan'
 
 
 # If you would like the sidebar to appear on the right side of the screen, make this field: 
@@ -58,10 +65,12 @@ base-theme:
 # reverse: 'layout-reverse'
 
 
-reverse: 
+reverse:
 
 
-
+#
+#
+#
 #
 #
 #
