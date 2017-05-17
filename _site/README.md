@@ -6,7 +6,7 @@ This showcase template was created to help Magic Grantees prepare for the Brown 
 
 In this README, we'll go through the process of setting up, editing and customizing this template for your project.
 
-### Join our organization on Github
+## Join our organization on Github
 
 Before you get started, you'll need to make sure you are part of our team on Github. The Brown Institute has a [Github organization](https://github.com/browninstitute) where we will host the code for your showcase website. 
 
@@ -17,7 +17,7 @@ We will be granting you access to this organization, but if we have not added yo
 
 In order to use the template, go through the following steps.
 
-1. Clone the repo
+1. **Clone the repo**
 
     Open a terminal window.
     
@@ -29,7 +29,7 @@ In order to use the template, go through the following steps.
     
     Leave the terminal window open.
 
-2. Create a new repository for your site within the Brown Institute's Github organization
+2. **Create a new repository for your site within the Brown Institute's Github organization**
 
     Go to our Github homepage at `https://github.com/browninstitute` and press the green `New` button on the right side of the screen.
     
@@ -41,13 +41,15 @@ In order to use the template, go through the following steps.
     
     Press `Create repository`
     
-3. Add the template your new git respository
+3. **Add the template your new git respository**
 
     Once you have initialized the repository, Github will provide you a repository link, like `https://github.com/browninstitute/open-contractors-showcase-2016.git`
     
     Go back to your terminal window. Copy and paste the following and press `return`.
     
-    `git remote set-url https://github.com/browninstitute/YOUR-REPOSITORY-NAME`
+    ```
+      git remote set-url https://github.com/browninstitute/YOUR-REPOSITORY-NAME
+    ```
     
     Now, add your files. On your command line:
       
@@ -67,13 +69,11 @@ Wait a minute, then navigate to `browninstitute.github.io/YOUR-REPOSITORY-NAME` 
 
 If you are familiar with editing static websites and using Github, feel free to edit this template in the text editor of your choice.
 
-If you haven't gone through this process before, I recommend using [Prose](http://prose.io/), a text editor that hooks into your Github account and is particularly great for editing Jekyll sites. 
-
-Authorize Prose for your Github account, then find and click into your project repo. 
+If you haven't gone through this process before, I recommend using [Prose](http://prose.io/), a text editor that hooks into your Github account and is particularly great for editing Jekyll sites. Visit the [Prose website](http://prose.io/) and authorize it for your Github account, then find and click into your project repo. 
 
 The main sections for the site can be found in the `pages` folder. They are written in Markdown, a flexible and fun markup language. If you are unfamiliar with using Markdown syntax, [this guide](https://daringfireball.net/projects/markdown/syntax) from Daring Fireball is particularly useful.
 
-Once you edit the page in prose, you can click the save button on the right of the page to commit the changes straight to your web page.
+Once you edit the page in Prose, you can click the save button on the right of the page to commit the changes straight to your web page.
 
 
 ## Editing the sticky sidebar content
@@ -105,7 +105,7 @@ This config file will provide a number of options that will change the content o
 
 ## Themes
 
-The config file for this theme lets you easily change the color scheme of your choice.
+The config file for this theme lets you easily change the color scheme to one you like.
 
 ![Hyde in red](https://f.cloud.github.com/assets/98681/1831229/42b0b354-7384-11e3-8462-31b8df193fe5.png)
 
