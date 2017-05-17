@@ -58,10 +58,12 @@ In order to use the template, go through the following steps.
       2. `git commit -m 'adding files'`
       
       3. `git push origin master`
-      
-At this point all of your files should be added to your repository on Github. To make a visitable webpage out of this code, go to the `Settings` tab in your repository. Scroll down. Under the heading `Github pages` select `Master branch` under the dropdown menu and press `Save`. 
 
-Wait a minute, then navigate to `browninstitute.github.io/YOUR-REPOSITORY-NAME` and a webpage should be there.
+You may at this point be asked for your Github credentials. Enter them to complete the push.
+      
+At this point all of your files should be added to your repository on Github. To make a visitable webpage out of this code, go to the `Settings` tab in your repository and scroll down. Under the heading `Github pages` select `Master branch` under the dropdown menu and press `Save`. 
+
+Wait one minute, then navigate to `browninstitute.github.io/YOUR-REPOSITORY-NAME` and a webpage should be there.
     
 
 
