@@ -159,7 +159,7 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
+  padding-top:    2rem;
   padding-bottom: 4rem;
 }
 
@@ -168,6 +168,7 @@ a.sidebar-nav-item:focus {
     max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
+    padding-top:    4rem;
   }
 }
 
