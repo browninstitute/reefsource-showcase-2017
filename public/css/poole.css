@@ -347,6 +347,13 @@ tbody tr:nth-child(odd) th {
     border-top: 10px solid gainsboro;
 }
 
+@media (max-width: 47em) {
+  .page,
+  .post {
+    padding-bottom: 4em;
+  }
+}
+
 .page:first-child {
   margin-top: 2rem; 
   padding-top: 0;
