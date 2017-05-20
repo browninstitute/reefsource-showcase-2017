@@ -92,6 +92,10 @@
   margin: .25rem;
 }
 
+@media (max-width: 47em) {
+  .sidebar .social i { font-size: x-large; }
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
