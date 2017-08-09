@@ -48,7 +48,7 @@ In order to use the template, go through the following steps.
     Go back to your terminal window. Copy and paste the following and press `return`.
     
     ```
-      git remote set-url https://github.com/browninstitute/YOUR-REPOSITORY-NAME
+      git remote set-url origin https://github.com/browninstitute/YOUR-REPOSITORY-NAME
     ```
     
     Now, add your files. On your command line:
