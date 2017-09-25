@@ -3,15 +3,15 @@
 
 # Edit these fields for your project 
 
-title:            'Reefsource'
-tagline:          'Crowdsourcing coral reef health data'
-description:      'A crowdsourcing environmental project on coral reef health.'
-url:              'https://coralreefsource.org/'
+title:            'Open Contractors'
+tagline:          'Making Sense of Government Contracting'
+description:      'An online <a href="https://github.com/opencontractors" target="_blank">open-source</a> platform for searching, analyzing and making sense of government procurement data.'
+url:              'http://open.contractors'
 baseurl:          /
 
 author:
-  name:           'Reefsource'
-  url:            'https://coralreefsource.org/'
+  name:           'Allison McCartney'
+  url:            'https://twitter.com/anmccartney'
 
 
 # Feel free to add additional social accounts below, such as Facebook, or delete any that are
@@ -19,13 +19,15 @@ author:
 
 social:
   - type:         'github'
-    url:          'https://github.com/reefsource/reefsource'
+    url:          'https://github.com/browninstitute'
+  - type:         'twitter'
+    url:          'https://twitter.com/opencontractors'
 
 
 # Put your video on YouTube -- it can be an unlisted video if you don't want to share it -- 
 # then extract the video ID and put it here. The video will appear at the top of your page
 
-feature-video-id:    ''
+feature-video-id:    'rMZuEOK4DtY'
 
 
 # Customize your fonts
