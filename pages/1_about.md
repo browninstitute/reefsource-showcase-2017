@@ -3,12 +3,12 @@ layout: page
 title: About
 ---
 
-Open Contractors is a project dedicated to the idea that government data must not only be available to the public, it must also be accessible and understandable. It seeks to take a difficult-to-understand database of government contracts, and provide graphics, language and context to better allow journalists and non-expert level readers to see stories in this data.
+We believe technology empowers journalists and researchers to use the environment as a firsthand data source. Reefsource is engaging the diving community to contibute citizen science to support participatory storytelling about the environment. To do this, we are both distributing cameras, as well as soliciting for RAW photos from divers to build a crowdsourced dataset of coral reef images. When a diver uploads photos, we run the images through an algorithm to provide a rough health score. As we grow our community, the dataset grows. As the dataset grows, researchers and journalists can gain new understanding about the health of a reef.
 
-Open Contractors was part of the 2015-2016 cohort of Magic Grants. Our team consists of two people, [Allison McCartney](https://twitter.com/anmccartney) and [Alexandre Gonçalves.](https://github.com/alexgonca)
+- Kristen M. Altenburger is the data science lead.
+- Henryk Blasinski is the computational imaging lead.
+- Sonali Prasad is an environmental journalist.
+- Vignesh Ramachandran is a multimedia journalist.
+- Dailin Shen is the web developer.
+- Katie Shepherd is an environmental journalist.
 
-![Allison McCartney and Alexandre Gonçalves](img/team.jpg)
-
-- Allison is a graduate of the Master's program in journalism at Stanford University, and specializes in telling stories with data applications and design.
-
-- Alex is a current PhD student in the Columbia University Graduate School of Journalism. He has a background working with both software and reporting in Brazil, and designed and maintains the Open Contractors database.
